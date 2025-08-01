@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/e-commerce-platform-9002-9011/amazon_frontend"
+}
